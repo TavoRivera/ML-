@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a9291a7-4f85-4182-a0f8-6df8efeb9768" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ML_first[_step.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/latas/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2hph7Xl78JekX4BPkT8Yzn6jkMJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\OPENCV\ML_first[_step\images\plastico" />
+      <recent name="C:\Users\DELL\Documents\OPENCV\ML_first[_step\images\papel" />
+      <recent name="C:\Users\DELL\Documents\OPENCV\ML_first[_step\images\latas" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9291a7-4f85-4182-a0f8-6df8efeb9768" name="Changes" comment="" />
+      <created>1718296758329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718296758329</updated>
+      <workItem from="1718296759823" duration="6525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ML_first__step$main.coverage" NAME="main Coverage Results" MODIFIED="1718309505589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
