@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a9291a7-4f85-4182-a0f8-6df8efeb9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ML_first_step.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ML_first_step.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1a9291a7-4f85-4182-a0f8-6df8efeb9768" name="Changes" comment="preprocesamiento, convertir a modelo ml y validar">
+      <change afterPath="$PROJECT_DIR$/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/papel/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plastico/15.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagenes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
@@ -37,7 +43,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/DELL/Documents/OPENCV/ML_first_step",
+    "last_opened_file_path": "C:/Users/DELL/Documents/OPENCV/ML_first_step/images/papel",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +55,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\OPENCV\ML_first_step\images\papel" />
       <recent name="C:\Users\DELL\Documents\OPENCV\ML_first_step\images\plastico" />
       <recent name="C:\Users\DELL\Documents\OPENCV\ML_first_step" />
     </key>
@@ -76,15 +83,29 @@
       <option name="presentableId" value="Default" />
       <updated>1718296758329</updated>
       <workItem from="1718296759823" duration="7805000" />
-      <workItem from="1718310861390" duration="3036000" />
+      <workItem from="1718310861390" duration="4954000" />
+      <workItem from="1719373183056" duration="4914000" />
     </task>
+    <task id="LOCAL-00001" summary="preprocesamiento, convertir a modelo ml y validar">
+      <option name="closed" value="true" />
+      <created>1718314225133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718314225133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="preprocesamiento, convertir a modelo ml y validar" />
+    <option name="LAST_COMMIT_MESSAGE" value="preprocesamiento, convertir a modelo ml y validar" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ML_first__step$main.coverage" NAME="main Coverage Results" MODIFIED="1718309505589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ML_first_step$main.coverage" NAME="main Coverage Results" MODIFIED="1718313897109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_first_step$main.coverage" NAME="main Coverage Results" MODIFIED="1719378125794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
